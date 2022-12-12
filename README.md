@@ -31,6 +31,9 @@ After defining a product strategy it is important to define a scope. In this sec
 
 ![UxPersona](deliverables/UxPersona.png)
 
+According to the ux person we define the customer journey map as a projection of what is going to happen during the usage of the app.
+![CJM](deliverables/CJM.jpg)
+
 We define how to meet the strategic objectives defined in the previous section. These are converted into requirements through the benchmark canvas.
 
 [Benchmark canvas: Full document here](deliverables/BenchmarkCanvas.pdf)
