@@ -1,11 +1,17 @@
 # Canchapp UXD
 User experience design process for Canchapp - Book sports venues and invite your friends to play in one place
 
-## Authors and acknowledgment
-- [Francisca Rivas](https://github.com/PanchiAnubis) - Designer
-- [Esteban Esparza](https://github.com/Esteb4nx) - Designer
-- [Gabriel Aillapán](https://github.com/GabeASM) - Analyst
-- [Jorge Mainhard](https://github.com/jmainhard) - Project Manager
+## Index
+- [Description](#description)
+- [Strategy](#strategy)
+- [Scope](#scope)
+- [Structure](#structure)
+- [Skeleton](#skeleton)
+- [Surface](#surface)
+- [Usability and accessibility](#usability-and-accessibility)
+- [Authors and acknowledgment](#authors-and-acknowledgment)
+
+
 
 ## Description
 The purpose of this project is to be an educational and application instance of user experience design learning.
@@ -58,4 +64,20 @@ Wireframes
 Mockups
 - [Full document here](deliverables/Mockups.pdf)
 
+---
+
+## Usability and accessibility
+As part of the user experience design process for Canchapp, improvements have been applied during a second design phase. The results and issues to consider are described in this section.
+
+### Usability evaluation
+
+### Accessibility
+
+---
+
+## Authors and acknowledgment
+- [Francisca Rivas](https://github.com/PanchiAnubis) - Designer
+- [Esteban Esparza](https://github.com/Esteb4nx) - Designer
+- [Gabriel Aillapán](https://github.com/GabeASM) - Analyst
+- [Jorge Mainhard](https://github.com/jmainhard) - Project Manager
 
