@@ -74,7 +74,7 @@ This section reports the heuristic evaluation process applied by the user experi
 
 This evaluation consists of a usability inspection method that allows to inspect the quality of use of the proposed interface.
 
-From this the team that evaluates takes in consideration a set of observed problems and then make a identification of the most severe and critical problems. Canchapp team addressed the problems through the solutions suggested or actively discussing them. The resultant product can be viewed [here]("deliverables/MockupsImprovements.pdf")
+From this the team that evaluates takes in consideration a set of observed problems and then make a identification of the most severe and critical problems. Canchapp team addressed the problems through the solutions suggested or actively discussing them. The resultant product can be viewed [here](deliverables/MockupsImprovements.pdf)
 
 The specific problems addressed in this section are as follows:
 ```
