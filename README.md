@@ -4,14 +4,14 @@ User experience design process for Canchapp - Book sports venues and invite your
 ## Index
 - [Description](#description)
 - [Strategy](#strategy)
-- [Scope](#scope)
+- [Scope](#scope) (UPDATED)
 - [Structure](#structure)
 - [Skeleton](#skeleton)
 - [Surface](#surface)
-- [Usability and accessibility](#usability-and-accessibility)
+- [Usability and accessibility](#usability-and-accessibility) (NEW)
 - [Authors and acknowledgment](#authors-and-acknowledgment)
 
-
+---
 
 ## Description
 The purpose of this project is to be an educational and application instance of user experience design learning.
@@ -21,7 +21,7 @@ users of these places suffer, having to use different tools for payment, communi
 Since this project corresponds exclusively to user experience design and its elements, the strategy, scope, structure, skeleton and surface are described in this document.
 All of the above is focused on a mobile application for casual soccer players.
 
-___
+---
 
 ## Strategy
 The first step undertaken by the team is to articulate the strategy. A "Value Proposition Canvas" is used as a way to compare canchapp and the potential solution to the customer's need.
@@ -70,8 +70,28 @@ Mockups
 As part of the user experience design process for Canchapp, improvements have been applied during a second design phase. The results and issues to consider are described in this section.
 
 ### Usability evaluation
+This section reports the heuristic evaluation process applied by the user experience development team for the approach of a soccer field reservation application towards its counterpart (Canchapp).
+
+This evaluation consists of a usability inspection method that allows to inspect the quality of use of the proposed interface.
+
+From this the team that evaluates takes in consideration a set of observed problems and then make a identification of the most severe and critical problems. Canchapp team addressed the problems through the solutions suggested or actively discussing them. The resultant product can be viewed [here]("deliverables/MockupsImprovements.pdf")
+
+The specific problems addressed in this section are as follows:
+```
+- Added field quotas
+- Fixed redundant drawer
+    - Drawer is deleted
+    - Added favorites button to navbar
+    - Move options to settings tab
+    - Drawer open button replaced by options button
+```
 
 ### Accessibility
+- Added the next accessibility options:
+    - Font size
+    - Page contrast
+- Added feedback and help to handle bugs in registration screen.
+- Added gradient to images to improve text readability
 
 ---
 
