@@ -87,11 +87,18 @@ The specific problems addressed in this section are as follows:
 ```
 
 ### Accessibility
+Within the dimension of accessibility, the Canchapp team has defined to add elements that allow our interface to adjust to people and their individual needs.
+
+We consider this initiative particularly important, because we give opportunities to people who have any kind of impairment that may affect the experience, providing tools and new options to our application. We will primarily focus on people with visual impairments but in the future we hope to cover as much user assistance as possible. The resultant product can be viewed [here](deliverables/MockupsImprovements.pdf)
+
+The specific problems addressed in this section are as follows:
+```
 - Added the next accessibility options:
     - Font size
     - Page contrast
 - Added feedback and help to handle bugs in registration screen.
 - Added gradient to images to improve text readability
+```
 
 ---
 
